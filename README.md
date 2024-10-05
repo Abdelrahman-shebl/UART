@@ -16,7 +16,6 @@ The transmitter sends data over a single wire, and the receiver reads the incomi
 - **Full-Duplex Communication:** Supports simultaneous data transmission and reception.
 - **Transmitter and Receiver Modules:** Separate modules for sending and receiving data.
 - **Parameterizable Data Width:** Configure data width for different applications.
-- 
 
 ## Baud Rate and Communication Settings
 The **baud rate** determines how fast data is transmitted over the UART interface. The baud rate generator is implemented to create a clock signal based on the desired baud rate.
